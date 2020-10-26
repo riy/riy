@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rias A. Sherzad</h1>
-<h3 align="center">Full-Stack developer from Hamburg, Germany</h3>
+<h3 align="center">Full-Stack Software Architect from Hamburg, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riy" alt="riy" /> </p>
 
 - 🔭 I’m currently working on **customer projects**
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **VueJS** and more **DevOps**
 
 - 📝 I regulary write articles on [https://www.theserverside.de](https://www.theserverside.de)
 
